@@ -122,3 +122,15 @@ FHReal is an unofficial fan-made project. It is **not** affiliated with, endorse
 "Forza", "Forza Horizon", and "Forza Motorsport" are registered trademarks of Microsoft Corporation. Car brand names within vehicle data profiles are used for simulation and immersion purposes only.
 
 ---
+## 🤝 Contributing
+
+Suggestions, feature requests, and bug reports are always welcome.
+
+If you'd like to help improve FHReal, feel free to open an issue or submit feedback.
+---
+
+# FHReal
+
+### Drive Real. Stay Real.
+
+Made with ❤️ for the Forza Horizon community.
