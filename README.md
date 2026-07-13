@@ -1,6 +1,4 @@
-<img width="443" height="254" alt="FHReal Logo" src="https://github.com/user-attachments/assets/60491faf-f06f-47e9-9ab3-c8a490efe5fd" />
-
-# FHReal — Forza Horizon 6 Companion Overlay
+# FHReal
 
 > A safe, non-invasive companion app for **Forza Horizon 6** that adds real-world driving features like fuel consumption, oil maintenance, an odometer, and more — all via the game's official telemetry system.
 
